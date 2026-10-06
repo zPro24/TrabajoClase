@@ -1,0 +1,25 @@
+header{
+    background-color: #0b87b0;
+    height: 100px;
+    width: 1024px;
+}
+
+nav{
+    background-color: pink;
+    height: 100px;
+    width: 1024px;
+}
+
+footer{
+    background-color: lightgreen;
+    height: 100px;
+    width: 1024px;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 1.75rem;
+}
+
